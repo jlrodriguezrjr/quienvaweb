@@ -1,6 +1,6 @@
 $white: #fefdfc;
 $black: #050505;
-$colorPrimary: #8547ca;
+$colorPrimary: #af69cd;
 $btnColor:#8c60bd;
 
 @mixin main-font {
@@ -273,7 +273,7 @@ a:focus {
   text-transform: uppercase;
   font-size: 24px;
   font-weight: 700;
-  color: #8547ca;
+  color: #af69cd;
   margin-top: 5px;
 
 }
@@ -392,7 +392,7 @@ a:focus {
       opacity: 1;
 
       &.active {
-        background-color: #8547ca;
+        background-color: #af69cd;
       }
     }
   }
